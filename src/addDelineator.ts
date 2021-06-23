@@ -8,7 +8,7 @@ function createDelineator(position: number, endColumn: number, commentStart: str
     for (let index = position + delineator.length; index < (endColumn - 1); index++) {
         delineator += '-';
     }
-    delineator += '\n\n';
+    delineator += '\n';
     return delineator;
 }
 
