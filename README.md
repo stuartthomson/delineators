@@ -1,6 +1,10 @@
 # easy-delineators
 
-This extension adds a command and keybinding for it to add delineators of a configurable length
+This extension adds a command and keybinding for it to add delineators of a configurable length.
+
+## Use
+
+Press `shift + ctrl + /`
 
 ## Extension Settings
 
